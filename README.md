@@ -78,4 +78,4 @@ I have an appetite for learning that has enabled me to teach myself code and the
 
 ## Hobbies
 
-Yoga, record collecting, music, creative writing, guitar, travel, plants, reading, cooking, puzzles, walking my dog.
+Yoga, record collecting, music, creative writing, guitar, travel, plants, reading, cooking, gaming, puzzles, walks my dog.
