@@ -1,77 +1,79 @@
-## Your Name
+## Kirstie Langan
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am an ambitious and self-motivated individual with over ten years of experience in the financial services sector with a particular focus on quality assurance and outcome testing. Over the two years I have been teaching myself to code and now after recently graduating from Makers Academy, I’m Looking for a new role as a junior software engineer that will enable me to further hone the problem-solving skills and sharp eye for detail developed in my previous career. I’m a proactive team player, with the ability to clearly communicate well at all levels, as well as using forward thinking and initiative to work alone. I thrive on new challenges and I’m flexible to an environment of constantly changing priorities with an organised and calm approach
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+Makers Academy- September 2021 – December 2021
+Independent learner and problem-solver
+OOP, TDD, SOLID, MVC
+Ruby, Rails, JavaScript, Rails, React, Sinatra
+Rspec, Jasmine, Capybara
+
+| Project        | Description       | Tech/tools         |
+| -------------- | ----------------- | ------------------ |
+| **Acebook**    | A Facebook clone. | Ruby, Rails, JS    |
+| **Makers B&B** | An Airbnb clone.  | Ruby, Sinatra, JS, |
+|                |                   | Bootstrap          |
+
+Flatiron School New York
+| Project | Description | Tech/tools |
+| -------------- | ----------------- | ----------------- |
+| **Tic Tac Toe** |A command Line game. | Ruby, Rails |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Clydesdale Bank/Yorkshire Bank/Virgin Money** (June 2017 March 2021)
+_Enterprise Assurance- 2nd line defence._
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+-     Finding and fixing legacy issues ensuring the policy framework resulting in fair customer outcomes. Identifying and highlighting any gaps in policy and implementing required changes.
+- Attending calibration sessions to ensure all outcome testers are achieving the same results and abiding by the same criteria when running the tests.
+- Effective RCA against all platforms that affect customer outcomes.
+- Assessing the effectiveness and competency of internal Quality Assessors and assessing that the QC framework is fit for purpose.
+- In depth knowledge of the FCA handbook particularly. ICOB and DISP. This is also reflected in the RO1 Qualification.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Financial Ombudsman Service** (July 2015 – June 2017)
+_Adjudicator_
 
-- Any experience relevent to software development
+- Assessing a wide range of complaints regarding mortgages, credit cards, loans, consumer credit, and overdrafts from financial businesses and consumers. Gathering and interpreting information from a wide range of systems and sources to reach a fair decision.
+- Confident and driven approach evaluating complex queries, analysing key information to reach a fair outcome in accordance with ever changing guidance and processes.
+- Strong analytical skills managing large and varied sets of data, helping to produce and maintain MI and reporting for my line manager and technical team when requested.
+- Identifying improvements to processes and systems to drive business improvement. Continuously liaising with the technical team to ensure improvement of frameworks and guidelines.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Thrives under pressure
 
--STAR
--What was the situation/task? (ST)
+As a self-employed contractor testing the quality of work produced by bank employees, I am used to working with several different banking clients. My role required a constant switching of priorities and work streams. I liaised daily with different clients including bank employees, claims management companies and customers in order to achieve a fair resolution. Sometimes this included difficult conversations when the correct guidance had not been followed and thus cases were failed. I also handled appeals on my decisions from internal teams directly. In terms of pace, working as a contractor I am used to working at a much quicker speed than a permanent employee to continually meet and exceed high targets and quality criteria required by the client. These contracts were often a five-day notice period, so there was no room for error.
 
--How was the skill used?
+#### Excellent communicator
 
--What did you do? (action)
+As well as the financial services sector, I have been fortunate to have worked in several other fast-paced and customer facing environments throughout my career. An art gallery which was a heavily sales focussed role that required me to build up my own client database of regular art investors and collectors, and a hotel host for a large hotel chain abroad. These roles required a positive and flexible attitude. I thrive taking on new challenges and talking to and interacting with customers.
 
--What was the result?
+#### Analytical thinker
 
+During my time as a self-contractor, I would go into banks and independently check the case handling processes and procedures, highlighting any gaps and offering advice in how to implement the required changes. Making processes more streamlined, helped staff to achieve a fair resolution first time around and reduce the margin for error in quality for the client. I have worked for many banks as an independent contractor including, Lloyds, Clydesdale bank, Yorkshire bank, Virgin Money and I also worked for several years at E-on, an energy provider. This demonstrates that I have an invaluable working knowledge of how these corporations work and years of experience in how to have tricky conversations when the quality and production isn’t quite right.
 
-#### This Skill
+#### Adaptability & Flexibility
 
-- Experience
-- Achievements
-- Evidence (STAR)
+I can demonstrate my ability to adapt my role daily during my career. I’m used to jumping onto different workstreams and I was an experienced Subject Matter Expert. I have ‘floor walked’ bank offices many times helping with all manner of queries. I enjoy undertaking many roles and always have an itch to learn something new.
 
-#### Another Skill
+#### Fast learner
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I have an appetite for learning that has enabled me to teach myself code and then take a chance on Makers Academy and change what was already a well-established career. I would value the opportunity to continue my learning pace in a new role.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Coventry University, BA(Hons) Spanish and Business, Degree/ 2.1) (Sep 2007 – Jun 2011)
 
-#### Your University / College (start_date to end_date)
+#### NVQ, Level 2 & 3, Travel Operation (Sep 2001 - Sep 2003)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### King Edward VII (Sep 1999 - Jun 2001, 9 GCSE's grades A-B)
 
-#### Any other qualifications
+## Additional qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+RO1 Diploma in Regulated Financial Planning Level 4 -Financial Services Regulation and Ethics
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Yoga, record collecting, music, creative writing, guitar, travel, tarot, plants, reading, cooking, puzzles, walking my dog
