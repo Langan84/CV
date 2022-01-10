@@ -16,10 +16,11 @@ I am an ambitious and self-motivated individual with over ten years of experienc
 | **Acebook**    | A Facebook clone. | Ruby, Rails, JS              |
 | **Makers B&B** | An Airbnb clone.  | Ruby, Sinatra, JS, Bootstrap |
 
-Flatiron School New York
-| Project | Description | Tech/tools |
-| -------------- | ----------------- | ----------------- |
-| **Tic Tac Toe** |A command Line game. | Ruby, Rails |
+#### Flatiron School New York
+
+| Project         | Description          | Tech/tools  |
+| --------------- | -------------------- | ----------- |
+| **Tic Tac Toe** | A command Line game. | Ruby, Rails |
 
 ## Work Experience
 
