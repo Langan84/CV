@@ -76,6 +76,6 @@ I have an appetite for learning that has enabled me to teach myself code and the
 
 #### RO1 Diploma in Regulated Financial Planning Level 4 -Financial Services Regulation and Ethics
 
-## Hobbies
+## Interests
 
 Yoga, record collecting, music, creative writing, guitar, travel, plants, reading, cooking, gaming, puzzles, long walks with my dog.
