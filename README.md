@@ -1,6 +1,6 @@
 ## Kirstie Langan
 
-I am an ambitious and self-motivated individual with over ten years of experience in the financial services sector with a particular focus on quality assurance and outcome testing. Over the last year I have been teaching myself to code and now after recently graduating from Makers Academy, I’m Looking for a new role as a junior software engineer, that will enable me to further hone the problem-solving skills and sharp eye for detail developed in my previous career. I’m a proactive team player, with the ability to clearly communicate well at all levels, as well as using forward thinking and initiative to work alone. I thrive on new challenges and I’m flexible to an environment of constantly changing priorities with an organised and calm approach.
+I am an ambitious and self-motivated Full Stack Developer with a background in the financial services sector, particularly in audit and compliance. For the last year I have been teaching myself to code, culminating my desire to take it further and join Makers Academy bootcamp. My previous experience in problem solving, and implementing change, combined with my creativity and curiosity for tech has enabled me to thrive in my new environment whilst continuously learning and feeling challenged every day. After graduating I’ve realised how much I love building things with clean and elegant code. I am experienced in making apps with Ruby on Rails and JavaScript.
 
 ## Projects
 
@@ -8,13 +8,14 @@ I am an ambitious and self-motivated individual with over ten years of experienc
 
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC
-- Ruby, JavaScript, Rails, React, Sinatra
+- Ruby, JavaScript, Rails, React, Sinatra, SQL
 - Rspec, Jasmine, Capybara
 
-| Project        | Description       | Tech/tools                   |
-| -------------- | ----------------- | ---------------------------- |
-| **Acebook**    | A Facebook clone. | Ruby, Rails, JS              |
-| **Makers B&B** | An Airbnb clone.  | Ruby, Sinatra, JS, Bootstrap |
+| Project          | Description       | Tech/tools                   |
+| ---------------- | ----------------- | ---------------------------- |
+| **Plant Doctor** | An app for plant. | Ruby, Rails                  |
+| **Acebook**      | A Facebook clone. | Ruby, Rails, JS              |
+| **Makers B&B**   | An Airbnb clone.  | Ruby, Sinatra, JS, Bootstrap |
 
 #### Flatiron School New York
 
@@ -58,7 +59,7 @@ During my time as a self-employed contractor, I would work with banks and indepe
 
 #### Adaptability & Flexibility
 
-I can demonstrate my ability to adapt my role constantly during my career. I am used to jumping onto different workstreams and I was an experienced Subject Matter Expert. I have ‘floor walked’ bank offices many times helping employees with all manner of queries. I enjoy undertaking many roles and always have an desire to learn something new.
+I can demonstrate my ability to adapt my role constantly during my career. I am used to jumping onto different workstreams and I was an experienced Subject Matter Expert. I have ‘floor walked’ bank offices many times helping employees with all manner of queries. I enjoy undertaking many roles and always have a desire to learn something new.
 
 #### Fast learner
 
