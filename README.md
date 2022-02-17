@@ -1,6 +1,6 @@
 ## Kirstie Langan
 
-I am an ambitious and self-motivated Full Stack Developer with a background in the financial services sector, particularly in audit and compliance. For the last year I have been teaching myself to code, culminating my desire to take it further and join Makers Academy bootcamp. My previous experience in problem solving, and implementing change, combined with my creativity and curiosity for tech has enabled me to thrive in my new environment whilst continuously learning and feeling challenged every day. After graduating I’ve realised how much I love building things with clean and elegant code. I am experienced in making apps with Ruby on Rails and JavaScript.
+I am an ambitious and self-motivated Full Stack Developer with a background in the financial services sector, particularly in audit and compliance. For the last year I have been teaching myself to code, culminating my desire to take it further and join Makers Academy bootcamp. My previous experience in problem solving, and implementing change, combined with my creativity and curiosity for tech has enabled me to thrive, whilst continuously learning and feeling challenged every day. After graduating I’ve realised how much I love building things with clean and elegant code. I am experienced in making apps with Ruby on Rails and JavaScript.
 
 ## Projects
 
