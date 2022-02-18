@@ -11,11 +11,13 @@ I am an ambitious and self-motivated Full Stack Developer with a background in t
 - Ruby, JavaScript, Rails, React, Sinatra, SQL
 - Rspec, Jasmine, Capybara
 
-| Project          | Description       | Tech/tools                   |
-| ---------------- | ----------------- | ---------------------------- |
-| **Plant Doctor** | An app for plant. | Ruby, Rails                  |
-| **Acebook**      | A Facebook clone. | Ruby, Rails, JS              |
-| **Makers B&B**   | An Airbnb clone.  | Ruby, Sinatra, JS, Bootstrap |
+| Project          | Description         | Tech/tools                   |
+| ---------------- | ------------------- | ---------------------------- |
+| **Plant Doctor** | An app to help      |                              |
+|                  | users care for      |                              |
+|                  | their plant babies. | Ruby, Rails                  |
+| **Acebook**      | A Facebook clone.   | Ruby, Rails, JS              |
+| **Makers B&B**   | An Airbnb clone.    | Ruby, Sinatra, JS, Bootstrap |
 
 #### Flatiron School New York
 
